@@ -1,21 +1,19 @@
 
-<img align="right" height="590em" src="#"/>
+<!-- <img align="right" height="590em" src="#"/> -->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Winicios Meirellis Mauri</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior developer improving knowledge
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
+<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=winicios-mauri&show_icons=true&theme=vision-friendly-dark" alt="winicios-mauri's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winicios-mauri&layout=compact&theme=vision-friendly-dark" alt="winicios-mauri's most languages"/>
 </p>
-
-<br><br>
 
 <br><br>
 
@@ -31,18 +29,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br><br>
-<!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
