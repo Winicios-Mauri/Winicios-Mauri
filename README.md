@@ -1,6 +1,6 @@
 
 
-<h1 align="left">Hi, I'm Winicios Meirellis Mauri</h1>
+<h1 align="left">Hello, my name is Winicios Meirellis Mauri</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winicios-mauri&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior developer improving knowledge
