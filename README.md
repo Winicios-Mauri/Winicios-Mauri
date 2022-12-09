@@ -5,7 +5,7 @@
 
 - 🔥 Junior developer improving knowledge
 
-- 💬 Ask me about **TypeScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **TypeScript, React, HTML, CSS, SQL, Node.JS**
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
